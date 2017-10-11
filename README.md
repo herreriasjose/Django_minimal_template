@@ -1,0 +1,1 @@
+# Django_minimal_template
