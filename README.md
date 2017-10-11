@@ -46,4 +46,4 @@ $ python minimal.py runserver 80
 And get this:
 
 
-![Django Minimal](https://raw.githubusercontent.com/herreriasjose/Django_minimal_template/4f18b0afab232aa08ce05ecd406c3161487e3dc7/django_minimal.png)
+![Django Minimal](https://raw.githubusercontent.com/herreriasjose/Django_minimal_template/master/django_minimal.png)
